@@ -1,3 +1,5 @@
+930000 ops/second on MBP 2018
+ 
 ```bash
 npm test
 
